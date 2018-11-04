@@ -10,4 +10,5 @@ Firebase's realtime database. Used some simple javascript to retrieve the co-ord
 
 # To-Do 
 Remove previous markers
+
 Handle exceptions
