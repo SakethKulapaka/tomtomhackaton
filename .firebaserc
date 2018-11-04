@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "three-522b0"
+  },
+  "targets": {
+    "three-522b0": {
+      "hosting": {
+        "mine": [
+          "sakethk.ml"
+        ]
+      }
+    }
+  }
+}
